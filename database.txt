@@ -1,0 +1,5 @@
+CREATE TABLE animals (
+	id serial PRIMARY KEY,
+	species varchar(20),
+	amount int
+	)
